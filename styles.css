@@ -1,0 +1,610 @@
+body{
+ background-color: rgb(66, 65, 65);
+
+
+}
+
+
+
+
+
+
+
+
+.nav{
+display: flex;
+white-space: break-spaces;
+
+}
+.ab{
+
+position: absolute;
+top: 10px;
+left: 65px;
+color: white;
+}
+.ho{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 234px;
+
+
+}
+.ao{
+
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 315px;
+}
+.po{color: white;
+
+    position: absolute;
+    top: 10px;
+    left: 416px;
+
+}
+.co{
+
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+
+
+
+
+
+.im{
+
+  opacity: 50%;
+color: white ;
+  position: absolute;
+ top: 150px;
+       left: 60px;
+
+}
+
+.abuzar{
+
+        color: white ;
+     position: absolute;
+        top: 204px;
+          left: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.pic{     top: -193px;
+    left: 225px;
+    width: 704px;
+    height: 566px;
+    position: absolute;
+
+
+}
+.sha{
+
+    height: 360px;
+    width: 360px;
+    border-radius: 250px;
+    background-color: black;
+    border: 1px solid black;
+    top: 99px;
+    left: 384px;
+    position: absolute;
+
+}
+
+.paragraph{
+
+    color: rgb(255, 254, 254);
+    top: 287px;
+    left: 60px;
+    position: absolute;
+}
+
+.intro-line{
+
+    border-bottom: 3px solid #F3B028;
+    top: 259px;
+    left: 60px;
+    position: absolute;
+    width: 80px;
+}
+
+.service{
+    color: rgb(255, 254, 254);
+    top: 183px;
+    left: 763px;
+    position: absolute;
+    opacity: 50%;
+
+}
+
+.para2{
+    color: rgb(255, 254, 254);
+    top: 220px;
+    left: 763px;
+    position: absolute;
+
+
+
+
+
+}
+.fa-facebook{
+
+    color: #F3B028;
+    top: 330px;
+    left: 763px;
+    position: absolute;
+    
+}
+.fa-linkedin-in{
+
+
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 942px;
+
+
+
+
+
+
+}
+.fa-dribbble{
+
+
+
+
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 975px;
+
+
+
+
+
+}
+.fa-bars-staggered{
+
+
+ color: white;
+    position: absolute;
+    top: 10px;
+    left: 1015px;
+
+
+
+
+
+
+}
+.fa-instagram{
+
+
+    color: #F3B028;
+    top: 330px;
+    left: 793px;
+    position: absolute
+
+
+
+
+}
+.fa-twitter{
+
+
+    color: #F3B028;
+    top: 330px;
+    left: 823px;
+    position: absolute
+
+
+
+}
+.fa-pinterest{
+
+
+
+    color: #F3B028;
+    top: 330px;
+    left: 853px;
+    position: absolute
+
+
+}
+.parent{
+display: flex;
+
+
+
+}
+.fa-arrow-right{
+
+    color:#F3B028;
+    top: 292px;
+    left: 848px;
+    position: absolute
+
+
+
+}
+
+.show{
+    color: #F3B028;
+    top: 290px;
+    left: 763px;
+    position: absolute
+
+
+
+}
+.boxe{
+
+    height: 134px;
+    width: 1012px;
+    background-color: rgb(87, 83, 83);
+    top: 485px;
+    left: 60px;
+    position: absolute;
+}
+.pbox{
+
+    display: flex;
+}
+.box1{
+    height: 42px;
+    width: 128px;
+    background-color: rgb(0, 0, 0);
+    top: 524px;
+    left: 175px;
+    position: absolute
+
+}
+.box2{
+
+    height: 42px;
+    width: 128px;
+    background-color: black;
+    top: 524px;
+    left: 348px;
+    position: absolute
+}
+.box3{
+
+    height: 42px;
+    width: 128px;
+    background-color: black;
+    top: 524px;
+    left: 536px;
+    position: absolute
+}
+.box4{
+    height: 42px;
+    width: 128px;
+    background-color: black;
+    top: 524px;
+    left: 760px;
+    position: absolute
+    
+}
+.dabba{
+
+    height: 820px;
+    width: 1350px;
+    background-color: rgb(83, 73, 73);
+    top: 545px;
+    left: 0px;
+    position: absolute;
+}
+.head{
+
+color: white;
+font-size: 35px;
+top: 700px;
+    left: 60px;
+    position: absolute;
+}
+.para3{
+opacity: 50%;
+
+top: 800px;
+    left: 60px;
+    position: absolute;
+color: white;
+}
+.no1{
+    color: #F3B028;
+    top: 876px;
+    left: 60px;
+    position: absolute;
+    font-size: 25px;
+
+}
+.text1{
+font-size: 15px;
+top: 905px;
+    left: 60px;
+    position: absolute;
+    color: white;
+}
+
+
+
+
+.no2{
+    top: 877px;
+    left: 190px;
+    position: absolute;
+    color: #F3B028;
+    font-size: 25px;
+
+}
+.text2{
+    font-size: 15px;
+    top: 905px;
+    left: 192px;
+    position: absolute;
+    color: white;
+
+}
+.no3{
+    top: 954px;
+    left: 60px;
+    position: absolute;
+    color: #F3B028;
+    font-size: 25px;
+}
+.text3{
+    font-size: 15px;
+    top: 988px;
+    left: 60px;
+    position: absolute;
+    color: white;
+}
+.no4{
+    top: 954px;
+    left: 190px;
+    position: absolute;
+    color: #F3B028;
+    font-size: 25px;
+}
+.text4{
+    color: white;
+    font-size: 15px;
+    top: 988px;
+    left: 190px;
+    position: absolute;
+
+}
+.boxui{
+    height: 240px;
+    width: 252px;
+    background-color: hsl(0deg 7% 68%);
+    top: 1107px;
+    left: 60px;
+    position: absolute;
+
+}
+.boxweb{
+    height: 240px;
+    width: 252px;
+    background-color: hsl(0deg 7% 68%);
+    top: 1107px;
+    left: 454px;
+    position: absolute;
+    
+}
+.boxapp{
+
+    height: 240px;
+    width: 252px;
+    background-color: hsl(0deg 7% 68%);
+    top: 1107px;
+    left: 832px;
+    position: absolute;
+}
+.line1{
+
+    border-bottom: 1px solid #fffefb;
+    top: 772px;
+    left: 627px;
+    position: absolute;
+    width: 447px;
+}
+.line2{
+
+    border-bottom: 1px solid #faf9f7;
+    top: 892px;
+    left: 627px;
+    position: absolute;
+    width: 447px;
+    
+}
+
+.line3{
+
+  
+    border-bottom: 1px solid #ffffff;
+    top: 1020px;
+    left: 627px;
+    position: absolute;
+    width: 447px; 
+}
+.boxhead1{
+   
+    top: 992px;
+    left: 627px;
+    position: absolute;
+    width: 447px;
+
+
+}
+.ggle{
+position: absolute;
+
+top: 521px;
+left: 355px;
+width: 107px;
+height: 50px;
+ 
+}
+.slack{
+    position:absolute;  
+    top: 530px;
+    left: 775px;
+    width: 41px;
+    height: 29px;
+}
+.arrow{
+    position:absolute;  
+    top: 524px;
+    left: 796px;
+    width: 51px;
+    height: 39px;
+
+
+
+}
+.fa-meta{
+    position:absolute;  
+    top: 536px;
+    left: 205px;
+    color: rgb(31, 105, 139);
+}
+    
+.mtta{
+position: absolute;
+top: 536px;
+left: 230px;;
+color: white;
+}
+.fa-linkedin{
+    position: absolute;
+    top: 534px;
+    left: 615px;
+color: rgb(31, 105, 139);
+}
+.likk{
+
+    position: absolute;
+    top: 534px;
+    left: 568px;
+    color: white;
+
+
+}
+.slkk{
+    position:absolute;  
+    top: 535px;
+    left: 819px;
+    color: white;
+
+
+}
+.boxtext1{
+position:absolute;
+top: 1220px;
+left: 106px;;   
+}
+
+.boxtext2{
+position: absolute;
+top: 1221px;
+    left: 480px
+    
+}
+.boxtext3{
+position: absolute;
+top: 1215px;
+left: 854px;
+
+}
+.boxhead1{
+    position: absolute;
+    top: 1179px;
+    left: 76px;
+    font-size: 22px;
+}
+.boxhead2{
+    top: 1181px;
+    left: 464px;
+    position: absolute;
+    font-size: 22px;
+
+
+}
+.boxhead3{
+    top: 1181px;
+    position: absolute;
+    left: 854px;
+    font-size: 22px
+
+
+}
+
+
+.image1{
+    top: 653px;
+    left: 627px;
+    position: absolute;
+    width: 172px;
+    height: 95px;
+}
+
+.image2{
+    top: 788px;
+    left: 627px;
+    position: absolute;
+    width: 172px;
+    height: 95px;
+    }
+    .image3{
+        top: 900px;
+        left: 627px;
+        position: absolute;
+        width: 172px;
+        height: 95px;
+        }
+        .uit{
+            top: 689px;
+            left: 817px;
+            position: absolute;
+            width: 187px;
+            height: 95px;
+            color: white;
+}
+.webt{
+    color: white;
+    top: 823px;
+    left: 815px;
+    position: absolute;
+    width: 172px;
+    height: 95px;
+}
+
+.appt{
+    color: white;
+    top: 941px;
+    left: 823px;
+    position: absolute;
+    width: 172px;
+    height: 95px;
+
+}
